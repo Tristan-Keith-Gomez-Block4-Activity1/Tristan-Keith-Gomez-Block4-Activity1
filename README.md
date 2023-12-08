@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Tristan-Keith-Gomez-Block4-Activity1/Tristan-Keith-Gomez-Block4-Activity1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tristan-Keith-Gomez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
